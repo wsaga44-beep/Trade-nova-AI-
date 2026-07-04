@@ -1,16 +1,21 @@
 {
-  "name": "tradenova",
-  "version": "1.0.0",
-  "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
-  },
-  "scripts": {
-    "build": "vite build",
-    "dev": "vite"
-  },
-  "devDependencies": {
-    "vite": "^5.0.0",
-    "@vitejs/plugin-react": "^4.0.0"
-  }
+    "name": "tradenova",
+      "version": "1.0.0",
+        "scripts": {
+              "build": "vite build",
+                  "dev": "vite",
+                      "preview": "vite preview"
+        },
+          "dependencies": {
+                "react": "^18.0.0",
+                    "react-dom": "^18.0.0"
+          },
+            "devDependencies": {
+                  "@vitejs/plugin-react": "^4.0.0",
+                      "vite": "^5.0.0"
+            }
+}
+            }
+          }
+        }
 }
